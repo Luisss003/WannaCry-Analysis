@@ -1,0 +1,7 @@
+Microsoft Enhanced RSA and AES Cryptographic Provider
+CryptGenKey
+CryptDecrypt
+CryptEncrypt
+CryptDestroyKey
+CryptImportKey
+CryptAcquireContextA

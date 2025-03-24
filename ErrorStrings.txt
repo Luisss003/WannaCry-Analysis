@@ -1,0 +1,30 @@
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+invalid distance code
+invalid literal/length code
+invalid bit length repeat
+too many length or distance symbols
+invalid stored block lengths
+invalid block type
+incomplete dynamic bit lengths tree
+oversubscribed dynamic bit lengths tree
+incomplete literal/length tree
+oversubscribed literal/length tree
+empty distance tree with lengths
+incomplete distance tree
+oversubscribed distance tree
+1.1.3
+incorrect data check
+incorrect header check
+invalid window size
+unknown compression method
+/..\
+/../
+\../
+\..\

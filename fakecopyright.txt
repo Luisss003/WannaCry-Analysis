@@ -1,0 +1,25 @@
+%s\Intel
+%s\ProgramData
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+DiskPart
+FileVersion
+6.1.7601.17514 (win7sp1_rtm.101119-1850)
+InternalName
+diskpart.exe
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+diskpart.exe
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+6.1.7601.17514
+VarFileInfo
+Translation
